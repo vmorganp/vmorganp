@@ -1,4 +1,11 @@
 ### Hi there 👋
+I mostly work on DevOps stuff but I dabble in other things. 
+
+On my github you'll mostly see my "free time projects", not my professional contributions. I use another GH account when working professionally.
+
+I learn a lot by selfhosting and therefore will have a few projects related to that here as well.
+
+Hit me up if you have a cool project and need help deploying or something like that.
 
 <!--
 **vmorganp/vmorganp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
