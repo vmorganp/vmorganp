@@ -4,6 +4,7 @@ I mostly work on DevOps stuff but I dabble in other things.
 On my github you'll mostly see my "free time projects", not my professional contributions. I use another GH account when working professionally.
 
 I learn a lot by selfhosting and therefore will have a few projects related to that here as well.
+I also like to hack on keyboards so enjoy some of my open-source hardware and the associated firmware that also lives in my repos.
 
 Hit me up if you have a cool project and need help deploying or something like that.
 
