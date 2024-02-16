@@ -1,24 +1,20 @@
-### Hi there 👋
-I mostly work on DevOps stuff but I dabble in other things. 
+# Hi there 👋
 
-On my github you'll mostly see my "free time projects", not my professional contributions. I use another GH account when working professionally.
+## What is all of this nonsense
+
+I mostly work on AWS and CI/CD stuff but I dabble in other things. 
 
 I learn a lot by selfhosting and therefore will have a few projects related to that here as well.
+
 I also like to hack on keyboards so enjoy some of my open-source hardware and the associated firmware that also lives in my repos.
+
+I enjoy the types of tools that come with [dotfiles](https://github.com/vmorganp/dotfiles) like neovim, tmux, and i3wm. 
+
+## Ok, but where's your professional work?
+On my github you'll mostly see my "free time projects", not my professional contributions. I use other GitHub accounts when working professionally.
+
+You can see my cool green squares over at @MorganPattersonSignet and @morganpa
+
 
 Hit me up if you have a cool project and need help deploying or something like that.
 
-<!--
-**vmorganp/vmorganp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
